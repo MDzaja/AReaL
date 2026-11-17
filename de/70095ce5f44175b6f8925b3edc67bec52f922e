@@ -1,0 +1,16 @@
+pyproject.vllm.toml
+  h_e7759ddd73fa65 194
+uv.vllm.lock
+  h_e7759ddd73fa65 588
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de70095ce5f44175b6f8925b3edc67bec52f922e",
+  "prompts": {},
+  "humans": {
+    "h_e7759ddd73fa65": {
+      "author": "MDzaja <mirkodzaja0@gmail.com>"
+    }
+  }
+}
